@@ -4,9 +4,9 @@
 - Install Docker Desktop and enable Kubernetes (https://www.docker.com/products/docker-desktop)
 - Install Lens (https://k8slens.dev/download)
 - (Optional) Create a github account if you don't have it (https://github.com)
-- generate a github access token (SAVE *GITHUB_ACCESS_TOKEN* IN A DOC, you will need it!!)
+- generate a github access token (https://github.com/settings/tokens - SAVE *GITHUB_ACCESS_TOKEN* IN A DOC, you will need it!!)
 - (Optional) Create a Docker Hub account if you don't have it (https://hub.docker.com)
-- generate a Docker Hub access token (SAVE *DOCKERHUB_ACCESS_TOKEN* IN A DOC, you will need it!!)
+- generate a Docker Hub access token (https://app.docker.com/settings/personal-access-tokens - SAVE *DOCKERHUB_ACCESS_TOKEN* IN A DOC, you will need it!!)
 
 ## Second Steps:
 Then Open the terminal and launch those command:
