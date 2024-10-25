@@ -1,11 +1,11 @@
 # GitOps @ devfestbari24
 
 ## First Steps:
-- Create a github account if you don't have it (https://github.com)
-- Create a Docker Hub account if you don't have it (https://hub.docker.com)
 - Install Docker Desktop and enable Kubernetes (https://www.docker.com/products/docker-desktop)
 - Install Lens (https://k8slens.dev/download)
+- (Optional) Create a github account if you don't have it (https://github.com)
 - generate a github access token (SAVE IT IN A DOC, you will need it!!)
+- (Optional) Create a Docker Hub account if you don't have it (https://hub.docker.com)
 - generate a Docker Hub access token (SAVE IT IN A DOC, you will need it!!)
 
 ## Second Steps:
